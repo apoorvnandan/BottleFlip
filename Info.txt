@@ -1,0 +1,4 @@
+bottleflip
+
+keystore pwd: flipit
+alias pwd: flipit

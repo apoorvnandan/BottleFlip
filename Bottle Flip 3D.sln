@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1CD8E17A-81C7-E75E-E87C-16326BCA4405}") = "Bottle Flip 3D", "Assembly-CSharp.csproj", "{703CF1A9-3216-F563-8FED-C38496C0F1FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{703CF1A9-3216-F563-8FED-C38496C0F1FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703CF1A9-3216-F563-8FED-C38496C0F1FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703CF1A9-3216-F563-8FED-C38496C0F1FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703CF1A9-3216-F563-8FED-C38496C0F1FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
